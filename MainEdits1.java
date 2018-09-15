@@ -16,7 +16,7 @@ public class MainEdits1 extends JFrame implements ActionListener{
  String[] appNames = new String[100];
  JLabel title, logo, app;
  JButton start;
- public JPanel cards = new JPanel();
+ //public JPanel cards = new JPanel();
  //read task manager
  Runtime rt = Runtime.getRuntime();
  String[] commands = {"tasklist"};
