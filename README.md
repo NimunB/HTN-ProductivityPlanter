@@ -8,7 +8,7 @@ As grade 11 and grade 12 students, procrastination is something that is very fam
 The application creates a list of all the processes done by a computer (i.e. specific programs that were gone on such as the mail app or the iTunes app). It also records the duration of time spent on a specific program/process. Using this information, the program outputs suggests goals based on how much time is wasted on each program. If a certain goal is met, a flower is added to the garden.
 
 ## How we built it
-The program was coded in Javan using the Eclipse IDE. A combination of JFrame and JPannel were used to display our graphics. We also used the ActionListener interface and the ActionEvent method with the graphic interfaces. 
+The program was coded in Java using the Eclipse IDE. A combination of JFrame and JPannel were used to display our graphics. We also used the ActionListener interface and the ActionEvent method with the graphic interfaces. 
 
 ## Challenges we ran into
 Some challenges we encountered were as follows: 
