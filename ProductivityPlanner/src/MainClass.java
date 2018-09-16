@@ -1,3 +1,4 @@
+package ProductivityPlanner.src;
 
 //Import files
 import javax.swing.*;
@@ -91,14 +92,21 @@ public abstract class MainClass implements MouseListener{
               g.fillRect(0,0,900,567);
               g.setColor(Color.gray);
               g.fillRect(0, 0,900, 50);
-              
+              g.drawString("Review your application runtimes:", (gameWindow.getWidth()/8), (gameWindow.getHeight()/4));
               g.drawImage(logo2,0,10,this); 
 //              Color customC=new Color(155,255,157);
 //              g.setColor(customC);
               g.fillRect(355, 490, 190, 40);
-              
-              
-          }
+              String[] appnames = new String [100];
+              int i = 0;
+              while (i < 100) {
+            	  appnames[i] = "";
+            	//names = appnames[i].getText();
+            	g.drawString(appnames[i], 50, 50 + 20*i);
+            	i++;
+              }
+              }
+          
           else if (screenNum==3) {
         	  
           }
