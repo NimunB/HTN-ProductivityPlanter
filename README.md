@@ -10,7 +10,7 @@ The application creates a list of all the processes done by a computer (i.e. spe
 ## How we built it
 The program was coded in Javan using the Eclipse IDE. A combination of JFrame and JPannel were used to display our graphics. We also used the ActionListener interface and the ActionEvent method with the graphic interfaces. 
 
-# Challenges we ran into
+## Challenges we ran into
 Some challenges we encountered were as follows: 
 - Thinking of an idea
 - Finding a way to organize large data lists
