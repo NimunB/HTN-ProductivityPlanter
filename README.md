@@ -1,4 +1,4 @@
-# HTNProductivityPlanter
+# ProductivityPlanter
 Android app created for Hack The North 2018
 
 ## Inspiration
